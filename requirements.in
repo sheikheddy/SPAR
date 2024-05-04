@@ -2,3 +2,15 @@ llm
 anthropic
 openai
 pip-tools
+voyageai
+ipykernel
+numpy
+scikit-learn
+matplotlib
+transformers
+plotly
+nbformat
+umap-learn
+pandas
+dash
+imageio
